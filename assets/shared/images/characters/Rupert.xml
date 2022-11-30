@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Rupert.png"><SubTexture name="Rupert_Idle0000" x="952" y="0" width="253" height="295" frameX="0" frameY="-40" frameWidth="253" frameHeight="335" />
+<SubTexture name="Rupert_Idle0001" x="952" y="0" width="253" height="295" frameX="0" frameY="-40" frameWidth="253" frameHeight="335" />
+<SubTexture name="Rupert_Idle0002" x="476" y="0" width="238" height="326" frameX="-8" frameY="-9" frameWidth="253" frameHeight="335" />
+<SubTexture name="Rupert_Idle0003" x="0" y="335" width="236" height="326" frameX="-9" frameY="-9" frameWidth="253" frameHeight="335" />
+<SubTexture name="Rupert_Idle0004" x="0" y="0" width="238" height="335" frameX="-8" frameY="0" frameWidth="253" frameHeight="335" />
+<SubTexture name="Rupert_Idle0005" x="238" y="0" width="238" height="329" frameX="-8" frameY="-6" frameWidth="253" frameHeight="335" />
+<SubTexture name="Rupert_Idle0006" x="238" y="0" width="238" height="329" frameX="-8" frameY="-6" frameWidth="253" frameHeight="335" />
+<SubTexture name="Rupert_Idle0007" x="236" y="335" width="238" height="318" frameX="-8" frameY="-17" frameWidth="253" frameHeight="335" />
+<SubTexture name="Rupert_Idle0008" x="236" y="335" width="238" height="318" frameX="-8" frameY="-17" frameWidth="253" frameHeight="335" />
+<SubTexture name="Rupert_Idle0009" x="474" y="335" width="238" height="305" frameX="-8" frameY="-30" frameWidth="253" frameHeight="335" />
+<SubTexture name="Rupert_Idle0010" x="474" y="335" width="238" height="305" frameX="-8" frameY="-30" frameWidth="253" frameHeight="335" />
+<SubTexture name="Rupert_Idle0011" x="714" y="0" width="238" height="305" frameX="-8" frameY="-30" frameWidth="253" frameHeight="335" />
+<SubTexture name="Rupert_Idle0012" x="714" y="0" width="238" height="305" frameX="-8" frameY="-30" frameWidth="253" frameHeight="335" />
+<SubTexture name="Rupert_Idle0013" x="714" y="305" width="238" height="305" frameX="-8" frameY="-30" frameWidth="253" frameHeight="335" />
+<SubTexture name="Rupert_Idle0014" x="714" y="305" width="238" height="305" frameX="-8" frameY="-30" frameWidth="253" frameHeight="335" />
+<SubTexture name="Rupert_Idle0015" x="714" y="305" width="238" height="305" frameX="-8" frameY="-30" frameWidth="253" frameHeight="335" />
+<SubTexture name="Rupert_Idle0016" x="714" y="305" width="238" height="305" frameX="-8" frameY="-30" frameWidth="253" frameHeight="335" />
+</TextureAtlas>
